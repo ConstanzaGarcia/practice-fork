@@ -1,0 +1,12 @@
+.first-section {
+    text-align: center;
+}
+
+#paragraph {
+    color: blue
+    font-size: 20 px;
+}
+
+.disappear {
+    display: none;
+}
